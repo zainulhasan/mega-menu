@@ -1,3 +1,4 @@
+import styles from './menu.css';
 const Menu = function () {
 
     return (

@@ -1,8 +1,6 @@
 import type { NextPage } from 'next'
-
-
 import Image from 'next/image'
-import Meta from './components/menu/meta/meta'
+import Meta from './components/meta'
 import Menu from './components/menu'
 
 const Home: NextPage = () => {
